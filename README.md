@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aliou 👋</h1>
 
-![android-chrome-512x512](https://github.com/albarry2000/albarry2000/assets/107374001/83fab05b-956e-4f35-9766-882a5720031c)
+   ![android-chrome-512x512](https://github.com/albarry2000/albarry2000/assets/107374001/83fab05b-956e-4f35-9766-882a5720031c)
 
 <h2 align="center">here is the link of my website</h2>
 <h3 align="center">https://albarry2000.github.io/projetslist/</h3>
